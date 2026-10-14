@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Famida Farza and Hafiz V.K//Wedding Invitation//EN
+BEGIN:VEVENT
+UID:famida-farza-hafiz-vk-20261014@farzawedhafiz.pages.dev
+DTSTAMP:20261012T000000Z
+DTSTART:20261014T110000Z
+DTEND:20261014T143000Z
+SUMMARY:Famida Farza & Hafiz V.K Nikkah
+LOCATION:Periyar Pavilion, Kuttamassery P.O, Thottumugham 683105
+DESCRIPTION:Wedding invitation for Famida Farza and Hafiz V.K.
+END:VEVENT
+END:VCALENDAR
